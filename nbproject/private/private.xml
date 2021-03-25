@@ -3,10 +3,8 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/D1090/Documents/NetBeansProjects/AplicaçãoWeb/web/WEB-INF/web.xml</file>
-            <file>file:/C:/Users/D1090/Documents/NetBeansProjects/AplicaçãoWeb/web/index.jsp</file>
-            <file>file:/C:/Users/D1090/Documents/NetBeansProjects/AplicaçãoWeb/web/sucesso.jsp</file>
-            <file>file:/C:/Users/D1090/Documents/NetBeansProjects/AplicaçãoWeb/src/java/br/com/bean/ServletDobro.java</file>
+            <file>file:/C:/Users/D1090/Documents/NetBeansProjects/AppWeb/src/java/br/com/DAO/DAO.java</file>
+            <file>file:/C:/Users/D1090/Documents/NetBeansProjects/AppWeb/src/java/br/com/DAO/TesteCon.java</file>
         </group>
     </open-files>
 </project-private>
