@@ -23,13 +23,13 @@ public class DAO {
      *
      * @throws SQLException
      */
-    public void abrirBanco() throws SQLException{        
+    public void abrirBanco() throws SQLException{
         try{               
             Class.forName("com.mysql.jdbc.Driver");
-            String localidade = "jdbc:mysql://localhost/SemestreDb";
+            String url = "jdbc:mysql://localhost/notasAlunos";
             String user = "root";
             String senha = ""; 
-                con = (Connection) DriverManager.getConnection(localidade);
+                con = (Connection) DriverManager.getConnection(url, user, senha);
                 System.out.println("Conetado ao banco");
         }catch(ClassNotFoundException ex){
             System.out.println("Banco não encontrado");
